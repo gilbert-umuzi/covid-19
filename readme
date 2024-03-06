@@ -9,3 +9,5 @@ This project provides an analysis of COVID-19 trends and mortality factors acros
 * Geographic Distribution: Examines the spatial distribution of COVID-19 clusters to understand regional variations.
 * Mortality Factor Analysis: Explores correlations between COVID-19 mortality rates and contextual features through data cleaning, ratio calculations, and pairwise correlation analysis.
 * Predictive Modeling: Applies Principle Component Analysis (PCA) and logistic regression to forecast COVID-19 outcomes based on identified trends and factors.
+
+View in Colab: https://colab.research.google.com/drive/1HIgBNzOBpJESFjbPOi8rzCatHCAw2v43?usp=sharing
